@@ -1,5 +1,6 @@
 import 'package:banking/ui/loginPage.dart';
 import 'package:flutter/material.dart';
+import 'package:characters/characters.dart';
 
 void main() => runApp(MyApp());
 
@@ -14,4 +15,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
