@@ -1,16 +1,9 @@
 # banking
 
-A new Flutter project.
+![Screenshot_74](https://user-images.githubusercontent.com/69635164/93995113-52983680-fdb0-11ea-8b10-aa53a8efe88e.png)
 
-## Getting Started
+![Screenshot_75](https://user-images.githubusercontent.com/69635164/93995121-53c96380-fdb0-11ea-8f46-4943b85b879f.png)
 
-This project is a starting point for a Flutter application.
+![Screenshot_76](https://user-images.githubusercontent.com/69635164/93995125-5461fa00-fdb0-11ea-8946-edf4a42e67b2.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_77](https://user-images.githubusercontent.com/69635164/93995128-54fa9080-fdb0-11ea-8d35-1cd43bd71b8b.png)
